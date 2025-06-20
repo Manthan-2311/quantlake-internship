@@ -30,3 +30,22 @@
 **Easiest vs Hardest:**
 - Easiest: FizzBuzz and reversing a string
 - Hardest: Custom error handling
+
+### Day 3 - June 18, 2025
+
+**Dataset Used**: Iris dataset from seaborn
+
+**What I practiced:**
+- Created Series and DataFrames manually
+- Loaded and explored datasets using `.info()`, `.describe()`, `.isnull()`
+- Used `.loc[]`, `.iloc[]` to access rows
+- Added and dropped columns
+- Explored `.value_counts()`, `.unique()`, `.mean()` etc.
+
+**What I learned:**
+- Difference between Series vs DataFrame
+- Filtering and sorting real-world data
+- Clean way to explore a dataset using just a few Pandas methods
+
+**Hardest Part:**
+- Remembering when to use `loc[]` vs `iloc[]`
