@@ -49,3 +49,21 @@
 
 **Hardest Part:**
 - Remembering when to use `loc[]` vs `iloc[]`
+
+
+### Day 4 - June 19, 2025
+
+**What I practiced:**
+- Used `.loc[]` and `.iloc[]` to access rows and columns
+- Filtered data using conditions (`&`, `|`)
+- Handled missing values with `dropna()` and `fillna()`
+- Grouped data using `groupby()` and `agg()`
+- Merged two DataFrames using `merge()` with different join types
+
+**Challenges:**
+- Remembering join types: `inner`, `outer`, etc.
+- Some columns had unexpected nulls — had to clean them manually
+
+**What I learned:**
+- How powerful groupby can be for aggregation
+- How to clean messy real-world datasets before analysis
