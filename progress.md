@@ -67,3 +67,15 @@
 **What I learned:**
 - How powerful groupby can be for aggregation
 - How to clean messy real-world datasets before analysis
+
+### Day 5 - June 20, 2025
+
+**What I did:**
+- Used pivot and pivot_table to summarize sales/profit
+- Used melt() to flatten wide data
+- Applied custom functions to classify profit margins
+- Used map() and replace() to clean labels
+- Combined small dataframes using concat (axis 0 and 1)
+
+**Hardest part:** Understanding when pivot vs pivot_table is more useful  
+**Learned:** How to build a mini data pipeline start to finish
