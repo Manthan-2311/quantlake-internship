@@ -79,3 +79,15 @@
 
 **Hardest part:** Understanding when pivot vs pivot_table is more useful  
 **Learned:** How to build a mini data pipeline start to finish
+
+
+### Day 6 - June 21, 2025
+
+**What I learned:**
+- Line, scatter, box, histogram, and heatmap plots
+- Customizing plots with titles, labels, grids, and legends
+- Seaborn makes plots simpler and more attractive
+
+**Dataset used**: superstore.csv
+
+**Favorite chart**: Heatmap of correlation between sales, profit, and discount
