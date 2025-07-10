@@ -107,3 +107,16 @@
 **Tools**: Used sqliteonline.com
 
 **Reflection**: Writing SQL felt very natural after pandas! GROUP BY and WHERE feel super useful for filtering real business data.
+
+### Day 8 - July 10, 2025
+
+**What I Did:**
+- Ran advanced SQL queries (GROUP BY, AVG, COUNT)
+- Used subqueries inside SELECT
+- Loaded SQL results into Pandas for analysis
+- Merged Customer and Invoice tables using `pd.merge()`
+
+**What I Learned:**
+- SQL is powerful for filtering and grouping
+- Pandas makes further analysis easier
+- `merge()` is like JOIN in SQL
