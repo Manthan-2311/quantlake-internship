@@ -91,3 +91,19 @@
 **Dataset used**: superstore.csv
 
 **Favorite chart**: Heatmap of correlation between sales, profit, and discount
+
+
+### Day 7 - June 22, 2025
+
+**DB Used**: Chinook (music store)
+
+**Interesting Queries:**
+1. Total spent by each customer
+2. Top 5 most expensive tracks
+3. All customers from Canada
+4. Track count per album
+5. Artists with more than 5 albums
+
+**Tools**: Used sqliteonline.com
+
+**Reflection**: Writing SQL felt very natural after pandas! GROUP BY and WHERE feel super useful for filtering real business data.
