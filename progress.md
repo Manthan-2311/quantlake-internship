@@ -120,3 +120,21 @@
 - SQL is powerful for filtering and grouping
 - Pandas makes further analysis easier
 - `merge()` is like JOIN in SQL
+
+
+### Day 9 - July 11, 2025
+
+**Tasks Completed:**
+- Ran multi-table joins to get customer revenue
+- Used window functions to rank customer orders
+- Wrote CTEs to simplify average order value and 3-month filter
+- Identified products with decreasing sales (business case)
+
+**Learnings:**
+- First time using `RANK()` and `DENSE_RANK()` — super powerful
+- Learned how `OVER()` lets you avoid GROUP BY limitations
+- CTEs improve readability in large queries
+
+**Challenges:**
+- Tracking declining trends over multiple months using SQL only was tricky
+
