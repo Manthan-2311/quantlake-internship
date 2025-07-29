@@ -146,7 +146,7 @@ Date: 29th July 2025
 Project Notebook: project/loan_default_prediction_quantlake_IN-25-1004.ipynb
 Dataset Used: Bank_Personal_Loan_Modelling.xlsx
 
-✅ Work Completed
+**Work Completed**
 Data Loading & Exploration
 
 Loaded dataset and explored Description and Data sheets
