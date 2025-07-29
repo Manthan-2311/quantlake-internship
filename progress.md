@@ -140,58 +140,32 @@
 
 
 
-##Final Project: Credit Risk Analytics – Identifying Drivers of Loan Default
-Intern ID: IN-25-1004
-Date: 29th July 2025
-Project Notebook: project/loan_default_prediction_quantlake_IN-25-1004.ipynb
-Dataset Used: Bank_Personal_Loan_Modelling.xlsx
+### Final Project - July 29, 2025
 
-**Work Completed**
-Data Loading & Exploration
+**Environment**: Jupyter Notebook (VSCode), GitHub
 
-Loaded dataset and explored Description and Data sheets
+**What I did**:
+- Loaded and explored the `Bank_Personal_Loan_Modelling.xlsx` dataset  
+- Performed data cleaning: checked for nulls and duplicates  
+- Conducted EDA and feature analysis  
+- Split the dataset into training and testing sets  
+- Trained and evaluated three models:  
+  - **Logistic Regression**  
+  - **Decision Tree Classifier**  
+  - **Random Forest Classifier**  
+- Compared performance of all models using accuracy, precision, recall, F1-score, and confusion matrix  
+- Random Forest gave the best performance with 99% accuracy  
+- Created a **Model Performance Comparison Table**  
+- Wrote the final **conclusion**  
+- Renamed the notebook to `loan_default_prediction_quantlake_IN-25-1004.ipynb`  
+- Updated `progress.md`  
+- Committed and pushed all changes to GitHub  
 
-Checked for null values and duplicates
+**Challenges**:
+- Faced SSL and SQLite issues initially while downloading data  
+- Had to install missing libraries like `openpyxl`  
 
-Performed descriptive statistics and feature understanding
-
-Data Preprocessing
-
-Cleaned and prepared features for modeling
-
-Encoded categorical features if required
-
-Split the dataset into training (70%) and testing (30%) sets
-
-Model Building
-
-Trained the following classification models:
-
-Logistic Regression
-
-Decision Tree Classifier
-
-Random Forest Classifier
-
-Model Evaluation
-
-Evaluated each model using:
-
-Confusion Matrix
-
-Classification Report (Precision, Recall, F1-score, Accuracy)
-
-Compiled results into a Model Performance Comparison Table
-
-Conclusion
-
-Random Forest delivered the best performance:
-
-Accuracy: 99%
-
-F1-Score: 0.95+
-
-Excellent recall for class 1 (loan default prediction)
-
-Final model chosen: ✅ Random Forest
-
+**Reflection**:
+- Successfully completed the internship project on loan default prediction  
+- Understood model evaluation deeply and improved confidence in applying classification models  
+- Ready for future ML projects with better workflow and organization  
