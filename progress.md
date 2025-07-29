@@ -138,3 +138,60 @@
 **Challenges:**
 - Tracking declining trends over multiple months using SQL only was tricky
 
+
+
+📊 Final Project: Credit Risk Analytics – Identifying Drivers of Loan Default
+Intern ID: IN-25-1004
+Date: 29th July 2025
+Project Notebook: project/loan_default_prediction_quantlake_IN-25-1004.ipynb
+Dataset Used: Bank_Personal_Loan_Modelling.xlsx
+
+✅ Work Completed
+Data Loading & Exploration
+
+Loaded dataset and explored Description and Data sheets
+
+Checked for null values and duplicates
+
+Performed descriptive statistics and feature understanding
+
+Data Preprocessing
+
+Cleaned and prepared features for modeling
+
+Encoded categorical features if required
+
+Split the dataset into training (70%) and testing (30%) sets
+
+Model Building
+
+Trained the following classification models:
+
+Logistic Regression
+
+Decision Tree Classifier
+
+Random Forest Classifier
+
+Model Evaluation
+
+Evaluated each model using:
+
+Confusion Matrix
+
+Classification Report (Precision, Recall, F1-score, Accuracy)
+
+Compiled results into a Model Performance Comparison Table
+
+Conclusion
+
+Random Forest delivered the best performance:
+
+Accuracy: 99%
+
+F1-Score: 0.95+
+
+Excellent recall for class 1 (loan default prediction)
+
+Final model chosen: ✅ Random Forest
+
