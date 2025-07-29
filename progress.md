@@ -140,7 +140,7 @@
 
 
 
-📊 Final Project: Credit Risk Analytics – Identifying Drivers of Loan Default
+###Final Project: Credit Risk Analytics – Identifying Drivers of Loan Default
 Intern ID: IN-25-1004
 Date: 29th July 2025
 Project Notebook: project/loan_default_prediction_quantlake_IN-25-1004.ipynb
